@@ -332,7 +332,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de6a2df6d2b8dfb4991467e59af30d73, type: 2}
+  - {fileID: 2100000, guid: c2e9d144b627a9a4f979783af7a94f9b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -653,7 +653,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de6a2df6d2b8dfb4991467e59af30d73, type: 2}
+  - {fileID: 2100000, guid: c2e9d144b627a9a4f979783af7a94f9b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1038,7 +1038,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 58742c98b6191464fa50a84c0317bb85, type: 2}
+  - {fileID: 2100000, guid: 88780647facb7064a86d93fb574c5ebe, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1300,7 +1300,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de6a2df6d2b8dfb4991467e59af30d73, type: 2}
+  - {fileID: 2100000, guid: c2e9d144b627a9a4f979783af7a94f9b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1405,7 +1405,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de6a2df6d2b8dfb4991467e59af30d73, type: 2}
+  - {fileID: 2100000, guid: c2e9d144b627a9a4f979783af7a94f9b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1739,7 +1739,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de6a2df6d2b8dfb4991467e59af30d73, type: 2}
+  - {fileID: 2100000, guid: c2e9d144b627a9a4f979783af7a94f9b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1961,7 +1961,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de6a2df6d2b8dfb4991467e59af30d73, type: 2}
+  - {fileID: 2100000, guid: c2e9d144b627a9a4f979783af7a94f9b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

@@ -9,7 +9,7 @@ public class statsenemai : MonoBehaviour
     public float videl;
     public Image barrita;
     public float hptotall;
-
+    
     public void Start()
     {
         hptotall = videl;
